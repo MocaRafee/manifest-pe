@@ -20,7 +20,7 @@
           revision="ten-plus" />
   
     <remote name="me"
-          fetch="https://github.com/MocaRafee/manifest-pe"
+          fetch="https://github.com/MocaRafee"
           revision="ten-fe" />
   
   <remote name="pixel-devices"
